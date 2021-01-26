@@ -11,11 +11,11 @@
   "author": "Sarah Cullen",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
     "sass": "^1.32.5"
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "parcel-bundler": "^1.12.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0"
