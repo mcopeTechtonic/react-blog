@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = process.env.API_URL;
+const url = process.env.API_URL || '';
 const postsUrl = `${url}/api/posts`;
 const categoriesUrl = `${url}/api/categories`;
 
