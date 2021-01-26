@@ -1,1 +1,1 @@
-# MERN (MySQL/Sequelize) Blog Example
+# MERN (MySQL + Sequelize) Blog Example
